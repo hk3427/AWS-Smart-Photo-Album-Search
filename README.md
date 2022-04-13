@@ -1,11 +1,10 @@
 # AWS-Smart-Photo-Album-Search
 
 A photo album web application that is deployed on AWS. The application searches through photos using natural language through both text and voice. This application has been developed as a part of the project component for the course- Cloud Computing (CS-GY 9223, New York University)
-
 <br>
-
 ## Team Memebers 
 Himanshu Kumar 
+<br>
 Rahul Ramaswamy
 
 ## Architecture
